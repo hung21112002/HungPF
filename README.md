@@ -10,7 +10,6 @@
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank"/>
   </a> 
 </p>
-
 ## 📫 How to reach me: sieuxau50@gmail.com
 - ✍ I'm a student of: [Ho Chi Minh City University of Technology](https://www.hutech.edu.vn/) (HUTECH).
 - 🌱 I’m currently learning **ReactJS.**
