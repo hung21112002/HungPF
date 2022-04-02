@@ -11,7 +11,7 @@
 ## 📫 How to reach me:
 <p align="center">
   <a href="https://linkedin.com/in/tien-nhm" target="_blank">
-    <img src="![image](https://user-images.githubusercontent.com/88641041/161366241-d00afbd3-5618-43fc-a45f-3b02990c9f14.png)"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
   </a>
   <a href="https://www.facebook.com/01.tien" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
