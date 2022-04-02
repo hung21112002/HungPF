@@ -11,10 +11,10 @@
   </a> 
 </p>
 
-## 📫 How to reach me:
+## 📫 How to reach me: sieuxau50@gmail.com
 - ✍ I'm a student of: [Ho Chi Minh City University of Technology](https://www.hutech.edu.vn/) (HUTECH).
-
 - 🌱 I’m currently learning **ReactJS.**
+- 💬 Ask me about Html , Css , Scss , JS , ReactJS
 <p align="center">Lenguages and Tools:</p>
 <p align="center">
   <a href="#">
