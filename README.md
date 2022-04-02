@@ -2,8 +2,8 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A fontend developer from Vietnam </h3>
 <h3 align="center">Connect whith me </h3>
+<img src="https://i.pinimg.com/originals/23/19/15/2319154c02c001f8a583703689de9048.gif" width="60" height="60" align="center"/>
 <p align="center">/>
-  <img  src="https://i.pinimg.com/originals/23/19/15/2319154c02c001f8a583703689de9048.gif" />
   <a href="https://www.facebook.com/01.tien" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
